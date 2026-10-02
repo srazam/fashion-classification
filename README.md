@@ -1,6 +1,6 @@
 # Fashion Image Classification
 
-CNN models (VGG, AlexNet, and LeNet) for classifying **patterns on dressed clothing**, along with an investigation into reproducibility and variance in deep learning.
+CNN models (VGG, AlexNet, and LeNet) for classifying **patterns on dressed clothing**.
 
 Findings from this work, *"Comparing Deep Learning Models Used for Image Classification on Patterns on Dressed Clothing"*, were presented at the [10th International Conference on Big Data Analytics, Data Mining and Computational Intelligence](https://www.iadisportal.org/bigdaci-csc-eh-2025-proceedings).
 
@@ -169,15 +169,6 @@ Make sure the dataset folder is named `fashion_images` and sits in the directory
 
 **Long run times**
 Each script trains a full model for every grid-search combination, so it can take a while. Reduce the search space to test quickly.
-
-## Citation
-
-If you use this code or build on these findings, please cite the paper:
-
-```
-Comparing Deep Learning Models Used for Image Classification on Patterns on Dressed Clothing.
-10th International Conference on Big Data Analytics, Data Mining and Computational Intelligence, 2025.
-```
 
 ## Acknowledgments
 
